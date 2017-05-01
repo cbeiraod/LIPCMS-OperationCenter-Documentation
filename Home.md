@@ -4,8 +4,11 @@ The wiki has the purpose to document the pages being displayed on the monitors i
 
 | Page | Link | Description | Monitor |
 | ---- | ---- |:-----------:|:-------:|
-| CMS Page Zero | https://cmswbm.cern.ch/cmsdb/servlet/PageZero | CMSPageZero | |
+| CMS Page Zero | https://cmswbm.cern.ch/cmsdb/servlet/PageZero | [[CMSPageZero]] | |
 
-Other possible pages for future inclusion:
+
+
+### Other possible pages for future inclusion:
+
 | Page | Link | Description |
 | ---- | ---- |:-----------:|
