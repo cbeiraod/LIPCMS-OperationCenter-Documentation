@@ -1,0 +1,1 @@
+Detailed information on the LHC modes can be found in the following documentation: [LHC Modes](https://lhc-commissioning.web.cern.ch/lhc-commissioning/systems/data-exchange/doc/LHC-OP-ES-0005-10-00.pdf)
