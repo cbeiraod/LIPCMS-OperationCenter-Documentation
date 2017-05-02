@@ -22,3 +22,12 @@ The wiki has the purpose to document the pages being displayed on the monitors i
 
 | Page | Link | Description |
 | ---- | ---- |:-----------:|
+| Deadtime Summary | https://cmswbm.cern.ch/cmsdb/servlet/DeadtimeSummary | [[DeadtimeSummary]] |
+| Specific Fill Report | | [[SpecificFillReport]] |
+| Latest Stable Fill | https://cmswbm.cern.ch/cmsdb/servlet/FillReport?N=1&BYLASTFILLS=TRUE&STABLE=TRUE | [[LatestStableFill]] |
+| "LumiScalers" | https://cmswbm.cern.ch/cmsdb/servlet/LumiScalers | [[LumiScalers]] |
+| Pre-Deadtime Trigger Rate | https://cmswbm.cern.ch/cmsdb/servlet/TriggerRatesHTML5 | [[PreDTTrigger]] |
+| Post-Deadtime Trigger Rate | https://cmswbm.cern.ch/cmsdb/servlet/TriggerRatesHTML5?POST=1 | [[PostDTTrigger]] |
+| Bunch Fill | https://cmswbm.cern.ch/bunch.html | [[BunchFill]] |
+| LHC Monitor | https://cmswbm.cern.ch/cmsdb/servlet/LhcMonitor | [[LHCMonitor]] |
+| CMS Online | https://cmsonline.cern.ch/ | [[CMSOnline]] |
