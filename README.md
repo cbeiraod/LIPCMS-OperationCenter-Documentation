@@ -6,9 +6,9 @@ This repository holds some documentation on the remote CMS operation center @ IS
 
 In order to contribute, follow the normal guidelines for working with repositories, i.e:
 
- 1 - Create your own fork of the repository (click the button you can see in the top right of this page)
- 2 - Edit your fork of the repository with whatever updates you see fit (it's normally a good idea to clone the repository locally so you can work on your own computer). Add these changes in as many commits as you wish
- 3 - Create a pull request with the changes you have made against this central repository
+1. Create your own fork of the repository (click the button you can see in the top right of this page)
+2. Edit your fork of the repository with whatever updates you see fit (it's normally a good idea to clone the repository locally so you can work on your own computer). Add these changes in as many commits as you wish
+3. Create a pull request with the changes you have made against this central repository
 
 ## For maintainers
 
