@@ -10,7 +10,7 @@ The monitoring screens have two basic [modes of operation](Modes): CMS Shift and
 
 The monitors are organised according to the following figure:
 
-![Screen Layout](/Images/ScreenLayout.jpg)
+[[/Images/ScreenLayout.jpg|Screen Layout]]
 
 ----
 
