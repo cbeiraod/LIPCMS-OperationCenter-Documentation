@@ -4,7 +4,11 @@ Welcome to the LIP-CMS Operation Center wiki!
 
 There are two main components to the CMS remote operation center @ IST, the display TVs and the monitoring screens.
 
-This wiki has the purpose to document the pages being displayed on the monitors installed at the LIP Operation Center at IST. The monitors are organised according to the following figure:
+There are two display TVs, the first showing a selection of public outreach videos from CERN and CMS, the second shows the current status of the LHC with the [LHC Page One](LHCPageOne)
+
+The monitoring screens have two basic modes of operation: CMS Shift and Public CMS
+
+The monitors are organised according to the following figure:
 
 ![Screen Layout](https://github.com/cbeiraod/LIPCMS-OperationCenter-Documentation/blob/master/Images/ScreenLayout.jpg)
 
